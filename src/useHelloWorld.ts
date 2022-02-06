@@ -4,7 +4,7 @@ export const useHelloWorld = () => {
   const [state, setState] = useState("hello")
 
   useEffect(() => {
-    setState("world!!")
+    setState("world")
   }, [])
 
   return state
