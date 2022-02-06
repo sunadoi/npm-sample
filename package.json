@@ -1,6 +1,6 @@
 {
   "name": "npm-library-template",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "template for creating npm library",
   "type": "module",
   "module": "lib/index.js",
